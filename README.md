@@ -60,8 +60,8 @@ Personal Finance Dataset — Kaggle
 - Budget Utilization Bar Chart
 - KPI Boxes
 - Dashboard Design
-
-Dashboard Preview
+- 
+ 📸 Dashboard Preview
 (Budge-Analysis/Budget_Dashboard.png)
 
 ---
@@ -100,6 +100,9 @@ Students Performance in Exams — Kaggle
 - Clustered Bar Charts
 - KPI Boxes
 - Multi-chart Dashboard Design
+
+📸 Dashboard Preview
+(Student-Performance/Student_Performance_Dashboard.png)
 
 ---
 
@@ -142,3 +145,6 @@ Superstore Sales Dataset — Kaggle
 - SUMIF, COUNTA, SUM formulas
 - Conditional Formatting
 - Professional Dashboard Design
+
+📸 Dashboard Preview
+(Superstore-Sales/Superstore_Dashboard.png)
