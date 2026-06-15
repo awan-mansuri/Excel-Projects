@@ -61,6 +61,9 @@ Personal Finance Dataset — Kaggle
 - KPI Boxes
 - Dashboard Design
 
+Dashboard Preview
+(Budge-Analysis/Budget_Dashboard.png)
+
 ---
 
  📁 Project 2 — Student Performance Dashboard
