@@ -13,7 +13,6 @@ This repository showcases Excel projects focused on data analysis, reporting, da
 - KPI reporting
 - Dashboard creation
 
-*Keep only the skills used in your actual projects.*
 
 ## 📂 Projects
 
